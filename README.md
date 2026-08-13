@@ -106,7 +106,7 @@ Liste ve kart görünümü, XML katalog aktarımı ve yeni ürün sihirbazı.
 ### Siparişler
 
 Sipariş KPI’ları, durum filtresi ve sipariş yönetimi.
-
+ensignalp/StokFlow
 <img src="docs/screenshots/022%20-%20Siparisler.png" alt="Siparişler" width="100%">
 
 ### Entegrasyon
@@ -215,4 +215,4 @@ pytest tests/
 
 ## Lisans
 
-Eğitim amaçlı. Coded by **Ebulcode** for **Eşsiz Teknik**.
+Eğitim amaçlı. Coded by **Ensignalp**
