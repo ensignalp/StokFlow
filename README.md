@@ -494,5 +494,5 @@ PDF çıktıları iç operasyon belgesidir; **resmi e-Fatura / e-İrsaliye (GİB
 ---
 
 <p align="center">
-  <sub>Eğitim amaçlı · Coded by <strong>Ebulcode</strong> for <strong>Eşsiz Teknik</strong></sub>
+  <sub>· Coded by <strong>Ensignalp</strong></strong></sub>
 </p>
