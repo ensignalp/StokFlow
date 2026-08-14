@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/logo.png" alt="StokFlow" width="96" height="96">
+  <img src="docs/logo.png" alt="StokFlow" width="250" height="250">
 </p>
 
 <h1 align="center">StokFlow</h1>
