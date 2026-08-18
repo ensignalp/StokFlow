@@ -42,7 +42,7 @@ StokFlow, tek satıcının birden fazla pazaryerini **tek panelden** yönetmesi 
 
 > Eğitim ve iç operasyon amaçlıdır. Coded by **ensignalp** 
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="25%"><strong>6</strong><br><sub>Pazaryeri adaptörü</sub></td>
     <td align="center" width="25%"><strong>10</strong><br><sub>Uygulama sayfası</sub></td>
